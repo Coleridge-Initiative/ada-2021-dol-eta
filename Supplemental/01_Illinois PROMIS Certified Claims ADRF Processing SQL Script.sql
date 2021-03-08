@@ -1,3 +1,4 @@
+--DOI: https://doi.org/10.5281/zenodo.4589127
 --This script is used to process the weekly UI certified
 --claims file from the Illinois Department of Employment Security (IDES)
 
