@@ -1,3 +1,4 @@
+--DOI: https://doi.org/10.5281/zenodo.4589165
 --This script is used to build the dataset for the ETA training program
 --It joins certified claims data to wages and selects a subset of the columns most relevant for the training.
 --Also creates a version of the table based on a 1% sample of 2020 claimants.
