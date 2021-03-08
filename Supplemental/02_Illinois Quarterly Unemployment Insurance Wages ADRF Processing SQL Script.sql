@@ -1,3 +1,4 @@
+--DOI: https://doi.org/10.5281/zenodo.4588936
 --This script is used to process the quarterly UI wages file 
 --from the Illinois Department of Employment Security (IDES)
 
