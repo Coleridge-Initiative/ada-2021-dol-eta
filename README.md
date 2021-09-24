@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Applied Data Analytics Program - Department of Labor, Employment, and Training Administration
 The Department of Labor’s Employment and Training Administration is facilitating an Applied Data Analytics training program for state teams. The particular focus of this training series will be on using example data from the state of Illinois, training provider, and wage record data to examine the unemployment to reemployment trajectories of UI benefit claimants and visualize them in a dashboard. The results will be to provide participants with (i) an understanding of how to work with similar data in their own state and (ii) the code necessary to produce a portal similar to the Illinois portal.
 
