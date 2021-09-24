@@ -58,6 +58,7 @@ Feb 26 - Module 2 Project Status Presentations
 **Module 3**
 
 **Class 1 and 2**
+
 March 1 - Machine Learning
 
 March 2 - Machine Learning Application
@@ -67,6 +68,7 @@ March 4 - Inference, Privacy, Confidentiality, and Ethics
 March 5 - Exporting Data
 
 **Class 3 and 4**
+
 March 22 - Machine Learning
 
 March 23 - Machine Learning Application
