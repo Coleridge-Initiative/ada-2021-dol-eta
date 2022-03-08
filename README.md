@@ -39,3 +39,7 @@ Day 10 - Machine Learning Application
 Day 11 - Inference, Privacy, Confidentiality, and Ethics
 
 Day 12 - Exporting Data
+
+**References**
+
+The notebooks in this repository were inspired by previous Applied Data Analytics class materials and notebooks.
